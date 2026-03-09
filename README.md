@@ -1,52 +1,34 @@
-# Allah-Bux
-# Hi there 👋 I'm Allah Bux
+# Hi there, I'm Allah Bux! 👋
 
-🎓 Computer Science Student  
-💻 Aspiring Data Scientist & AI Enthusiast  
-📍 Pakistan  
+### 👨‍💻 Computer Science Student | Aspiring Data Scientist | Python Enthusiast
 
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Python, Pandas, and Data Science**
-- 📊 Interested in **Data Analysis, Machine Learning, and AI**
-- 💡 Passionate about **technology and problem solving**
-- 🎯 Goal: Become a **Professional Data Scientist**
+I am a passionate Computer Science student dedicated to uncovering insights through data. I spend my time building Python scripts, exploring machine learning models, and solving complex problems with code.
 
 ---
 
-## 🛠️ Skills & Tools
-
-- Programming: **Python**
-- Data Analysis: **Pandas, NumPy**
-- Tools: **Git, GitHub, Jupyter Notebook,Pycharm**
-- Learning: **Machine Learning, Data Visualization**
+### 🚀 Quick Stats
+* 🔭 I’m currently working on **Data Analysis projects**
+* 🌱 I’m currently learning **Deep Learning & Advanced SQL**
+* ⚡ Fun fact: I believe data tells a story; I'm just the narrator.
 
 ---
 
-## 📚 Current Learning Journey
+### 🛠️ Tech Stack & Tools
 
-- Python for Data Science
-- Data Analysis with Pandas
-- Machine Learning Basics
-- Real-world Data Projects
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/abuxdayo42
-- Email: your-abuxdayo41@gmail.com
+### 📊 My GitHub Activity
+![Allah Bux's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuxdayo42&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuxdayo42&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *"Always learning, always building."*
+### 📫 Let's Connect!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL_HERE)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
